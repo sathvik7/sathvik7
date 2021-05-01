@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sathvik7
 - 👀 I’m interested in Programming, Cricket, Distributed Systems and Honey Badgers 😉
 - 🌱 I’m currently learning Rust, Scala, Apache Spark, Antlr and What not.
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on Distributed Sytems, Antl Based Projects, Spark, Rust Projects.
 - 📫 Reach me on twitter @k_sathvik15
 
 <!---
